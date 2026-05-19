@@ -82,13 +82,13 @@ Created new meaningful features for better analysis:
 
 The repository contains:
 
-| File Name                  | Description                                 |
-| -------------------------- | ------------------------------------------- |
-| Raw_Data.csv               | Original dataset                            |
-| data_dictionary.xlsx       | Dataset metadata and column descriptions    |
-| Task1_Data_Wrangling.ipynb | Python cleaning and transformation notebook |
-| cleaned_dataset.csv        | Final cleaned dataset                       |
-| README.md                  | Project documentation                       |
+| File Name                    | Description                                 |
+| --------------------------   | ------------------------------------------- |
+| SampleSuperstore.csv         | Original dataset                            |
+| data_dictionary.xlsx         | Dataset metadata and column descriptions    |
+| APtask-1.ipynb               | Python cleaning and transformation notebook |
+| cleaned_SampleSuperstore.csv | Final cleaned dataset                       |
+| README.md                    | Project documentation                       |
 
 ---
 
